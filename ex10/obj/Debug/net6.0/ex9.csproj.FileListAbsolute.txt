@@ -1,0 +1,14 @@
+C:\Users\Patrick\Desktop\setul 2\ex9\bin\Debug\net6.0\ex9.exe
+C:\Users\Patrick\Desktop\setul 2\ex9\bin\Debug\net6.0\ex9.deps.json
+C:\Users\Patrick\Desktop\setul 2\ex9\bin\Debug\net6.0\ex9.runtimeconfig.json
+C:\Users\Patrick\Desktop\setul 2\ex9\bin\Debug\net6.0\ex9.dll
+C:\Users\Patrick\Desktop\setul 2\ex9\bin\Debug\net6.0\ex9.pdb
+C:\Users\Patrick\Desktop\setul 2\ex9\obj\Debug\net6.0\ex9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\Desktop\setul 2\ex9\obj\Debug\net6.0\ex9.AssemblyInfoInputs.cache
+C:\Users\Patrick\Desktop\setul 2\ex9\obj\Debug\net6.0\ex9.AssemblyInfo.cs
+C:\Users\Patrick\Desktop\setul 2\ex9\obj\Debug\net6.0\ex9.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\setul 2\ex9\obj\Debug\net6.0\ex9.dll
+C:\Users\Patrick\Desktop\setul 2\ex9\obj\Debug\net6.0\refint\ex9.dll
+C:\Users\Patrick\Desktop\setul 2\ex9\obj\Debug\net6.0\ex9.pdb
+C:\Users\Patrick\Desktop\setul 2\ex9\obj\Debug\net6.0\ex9.genruntimeconfig.cache
+C:\Users\Patrick\Desktop\setul 2\ex9\obj\Debug\net6.0\ref\ex9.dll

@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Proiecte\Setul 2\S2E1\S2E1\bin\Debug\S2E1.exe.config
+C:\Users\admin\Desktop\Proiecte\Setul 2\S2E1\S2E1\bin\Debug\S2E1.exe
+C:\Users\admin\Desktop\Proiecte\Setul 2\S2E1\S2E1\bin\Debug\S2E1.pdb
+C:\Users\admin\Desktop\Proiecte\Setul 2\S2E1\S2E1\obj\Debug\S2E1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Proiecte\Setul 2\S2E1\S2E1\obj\Debug\S2E1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Proiecte\Setul 2\S2E1\S2E1\obj\Debug\S2E1.exe
+C:\Users\admin\Desktop\Proiecte\Setul 2\S2E1\S2E1\obj\Debug\S2E1.pdb
